@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="27.284" tests="17" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Automation\RestAssuredEmployeeProj\target\test-classes;C:\Automation\RestAssuredEmployeeProj\target\classes;C:\Users\phman\.m2\repository\io\rest-assured\rest-assured\4.0.0\rest-assured-4.0.0.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy\2.5.6\groovy-2.5.6.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy-xml\2.5.6\groovy-xml-2.5.6.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\phman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest-core\2.1\hamcrest-core-2.1.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest-library\2.1\hamcrest-library-2.1.jar;C:\Users\phman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\phman\.m2\repository\io\rest-assured\json-path\4.0.0\json-path-4.0.0.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy-json\2.5.6\groovy-json-2.5.6.jar;C:\Users\phman\.m2\repository\io\rest-assured\rest-assured-common\4.0.0\rest-assured-common-4.0.0.jar;C:\Users\phman\.m2\repository\io\rest-assured\xml-path\4.0.0\xml-path-4.0.0.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\phman\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\phman\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\phman\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\phman\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\phman\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\phman\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\phman\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\phman\.m2\repository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar;C:\Users\phman\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\phman\.m2\repository\org\json\json\20180813\json-20180813.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi\4.1.0\poi-4.1.0.jar;C:\Users\phman\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-collections4\4.3\commons-collections4-4.3.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi-ooxml\4.1.0\poi-ooxml-4.1.0.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.0\poi-ooxml-schemas-4.1.0.jar;C:\Users\phman\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\phman\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Australia/Sydney"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="AU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\phman\AppData\Local\Temp\surefire5610837358316334800\surefirebooter439908205182127528.jar C:\Users\phman\AppData\Local\Temp\surefire5610837358316334800 2019-08-03T19-32-28_432-jvmRun1 surefire3740029334343914439tmp surefire_07172324229162815695tmp"/>
+    <property name="surefire.test.class.path" value="C:\Automation\RestAssuredEmployeeProj\target\test-classes;C:\Automation\RestAssuredEmployeeProj\target\classes;C:\Users\phman\.m2\repository\io\rest-assured\rest-assured\4.0.0\rest-assured-4.0.0.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy\2.5.6\groovy-2.5.6.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy-xml\2.5.6\groovy-xml-2.5.6.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar;C:\Users\phman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\phman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.3\httpmime-4.5.3.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest-core\2.1\hamcrest-core-2.1.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\phman\.m2\repository\org\hamcrest\hamcrest-library\2.1\hamcrest-library-2.1.jar;C:\Users\phman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\phman\.m2\repository\io\rest-assured\json-path\4.0.0\json-path-4.0.0.jar;C:\Users\phman\.m2\repository\org\codehaus\groovy\groovy-json\2.5.6\groovy-json-2.5.6.jar;C:\Users\phman\.m2\repository\io\rest-assured\rest-assured-common\4.0.0\rest-assured-common-4.0.0.jar;C:\Users\phman\.m2\repository\io\rest-assured\xml-path\4.0.0\xml-path-4.0.0.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar;C:\Users\phman\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar;C:\Users\phman\.m2\repository\com\sun\xml\bind\jaxb-osgi\2.2.10\jaxb-osgi-2.2.10.jar;C:\Users\phman\.m2\repository\org\apache\sling\org.apache.sling.javax.activation\0.1.0\org.apache.sling.javax.activation-0.1.0.jar;C:\Users\phman\.m2\repository\javax\activation\activation\1.1.1\activation-1.1.1.jar;C:\Users\phman\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\phman\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\phman\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;C:\Users\phman\.m2\repository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar;C:\Users\phman\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\phman\.m2\repository\org\json\json\20180813\json-20180813.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi\4.1.0\poi-4.1.0.jar;C:\Users\phman\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-collections4\4.3\commons-collections4-4.3.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi-ooxml\4.1.0\poi-ooxml-4.1.0.jar;C:\Users\phman\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.0\poi-ooxml-schemas-4.1.0.jar;C:\Users\phman\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\phman\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\phman\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\phman"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
+    <property name="basedir" value="C:\Automation\RestAssuredEmployeeProj"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\phman\AppData\Local\Temp\surefire5610837358316334800\surefirebooter439908205182127528.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="user.name" value="phman"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\phman\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\phman\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="user.dir" value="C:\Automation\RestAssuredEmployeeProj"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_201/bin/server;C:/Program Files/Java/jre1.8.0_201/bin;C:/Program Files/Java/jre1.8.0_201/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_201;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Selenium Project\webdriver;C:\Selenium Project\webdriver;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Selenium Project\maven\apache-maven-3.6.0\bin;C:\Selenium Project\maven\apache-maven-3.6.0\bin;C:\WINDOWS\System32\OpenSSH\;C:\Users\phman\.jenkins;C:\Program Files\Git\cmd;C:\Users\phman\AppData\Local\Programs\Python\Python37-32;C:\Users\phman\AppData\Local\Packages\ZhuhaiKingsoftOfficeSoftw.WPSOfficeforFree_924xes6e8q1tw\LocalCache\Local\Programs\Python\Python37-32;C:\Users\phman\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\phman\AppData\Local\Programs\Python\Python37-32\;C:\Users\phman\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2019.1.2\bin;;C:\Users\phman\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\phman\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="checkHeader" classname="com.employeeapi.tests.TC001_Get_All_Employees" time="0.009"/>
+  <testcase name="checkResponseBody" classname="com.employeeapi.tests.TC001_Get_All_Employees" time="0.873"/>
+  <testcase name="checkStatusCode" classname="com.employeeapi.tests.TC001_Get_All_Employees" time="0"/>
+  <testcase name="checkStatusLine" classname="com.employeeapi.tests.TC001_Get_All_Employees" time="0"/>
+  <testcase name="checkHeader" classname="com.employeeapi.tests.TC002_Get_Single_Employee_Record" time="0.006"/>
+  <testcase name="checkResponseBody" classname="com.employeeapi.tests.TC002_Get_Single_Employee_Record" time="0"/>
+  <testcase name="checkStatusCode" classname="com.employeeapi.tests.TC002_Get_Single_Employee_Record" time="0"/>
+  <testcase name="checkStatusLine" classname="com.employeeapi.tests.TC002_Get_Single_Employee_Record" time="0"/>
+  <testcase name="checkHeader" classname="com.employeeapi.tests.TC003_Post_Employee_Record" time="0.005"/>
+  <testcase name="checkResponseBody" classname="com.employeeapi.tests.TC003_Post_Employee_Record" time="0.001"/>
+  <testcase name="checkStatusCode" classname="com.employeeapi.tests.TC003_Post_Employee_Record" time="0"/>
+  <testcase name="checkStatusLine" classname="com.employeeapi.tests.TC003_Post_Employee_Record" time="0.001"/>
+  <testcase name="checkHeader" classname="com.employeeapi.tests.TC004_Put_Employee_Record" time="0.005"/>
+  <testcase name="checkResponseBody" classname="com.employeeapi.tests.TC004_Put_Employee_Record" time="0.001"/>
+  <testcase name="checkStatusCode" classname="com.employeeapi.tests.TC004_Put_Employee_Record" time="0"/>
+  <testcase name="checkStatusLine" classname="com.employeeapi.tests.TC004_Put_Employee_Record" time="0"/>
+  <testcase name="checkResponseBody" classname="com.employeeapi.tests.TC005_Delete_Employee_Record" time="0.005">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at com.employeeapi.tests.TC005_Delete_Employee_Record.checkResponseBody(TC005_Delete_Employee_Record.java:35)
+</failure>
+    <system-out><![CDATA[Response Body is : {"success":{"text":"successfully! deleted Records"}}
+]]></system-out>
+  </testcase>
+</testsuite>

@@ -1,0 +1,5 @@
+com\employeeapi\tests\TC001_Get_All_Employees.class
+com\employeeapi\tests\TC003_Post_Employee_Record.class
+com\employeeapi\tests\TC002_Get_Single_Employee_Record.class
+com\employeeapi\tests\TC004_Put_Employee_Record.class
+com\employeeapi\tests\TC005_Delete_Employee_Record.class

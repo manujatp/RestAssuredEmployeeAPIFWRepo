@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 27.284 s <<< FAILURE! - in TestSuite
+checkResponseBody(com.employeeapi.tests.TC005_Delete_Employee_Record)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.employeeapi.tests.TC005_Delete_Employee_Record.checkResponseBody(TC005_Delete_Employee_Record.java:35)
+

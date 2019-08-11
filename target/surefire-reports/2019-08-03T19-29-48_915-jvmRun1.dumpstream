@@ -1,0 +1,241 @@
+# Created at 2019-08-03T19:30:05.229
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-08-03T19:30:06.431
+Unexpected IOException: 5,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkHeader(com.employeeapi.tests.TC003_Post_Employee_Record),com.employeeapi.tests.TC003_Post_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:06.445
+Unexpected IOException with stream: Date Sat, 03 Aug 2019 09:30:01 GMT
+
+
+# Created at 2019-08-03T19:30:06.457
+Unexpected IOException with stream: Server Apache
+
+
+# Created at 2019-08-03T19:30:06.467
+Unexpected IOException with stream: Expires Thu, 19 Nov 1981 08:52:00 GMT
+
+
+# Created at 2019-08-03T19:30:06.480
+Unexpected IOException with stream: Cache-Control no-store, no-cache, must-revalidate
+
+
+# Created at 2019-08-03T19:30:06.491
+Unexpected IOException with stream: Pragma no-cache
+
+
+# Created at 2019-08-03T19:30:06.497
+Unexpected IOException with stream: Access-Control-Allow-Origin *
+
+
+# Created at 2019-08-03T19:30:06.508
+Unexpected IOException with stream: Access-Control-Expose-Headers Content-Type, X-Requested-With, X-authentication, X-client
+
+
+# Created at 2019-08-03T19:30:06.513
+Unexpected IOException with stream: Set-Cookie PHPSESSID=46d4581c0f7e725ba7e2d3596da5ed20; path=/
+
+
+# Created at 2019-08-03T19:30:06.522
+Unexpected IOException with stream: Upgrade h2,h2c
+
+
+# Created at 2019-08-03T19:30:06.529
+Unexpected IOException with stream: Connection Upgrade, Keep-Alive
+
+
+# Created at 2019-08-03T19:30:06.538
+Unexpected IOException with stream: Referrer-Policy 
+
+
+# Created at 2019-08-03T19:30:06.542
+Unexpected IOException with stream: Content-Length 62
+
+
+# Created at 2019-08-03T19:30:06.553
+Unexpected IOException with stream: Keep-Alive timeout=5, max=75
+
+
+# Created at 2019-08-03T19:30:06.560
+Unexpected IOException with stream: Content-Type text/html; charset=UTF-8
+
+
+# Created at 2019-08-03T19:30:06.567
+Unexpected IOException with stream: Content Type : text/html; charset=UTF-8
+
+
+# Created at 2019-08-03T19:30:06.573
+Unexpected IOException with stream: Content-Encoding : null
+
+
+# Created at 2019-08-03T19:30:06.581
+Unexpected IOException: 6,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkHeader(com.employeeapi.tests.TC003_Post_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:06.588
+Unexpected IOException: 5,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkResponseBody(com.employeeapi.tests.TC003_Post_Employee_Record),com.employeeapi.tests.TC003_Post_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:06.596
+Unexpected IOException with stream: Response Body is : {"name":"ManujaRajU","salary":"DJaVf","age":"87","id":"23061"}
+
+
+# Created at 2019-08-03T19:30:06.604
+Unexpected IOException: 6,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkResponseBody(com.employeeapi.tests.TC003_Post_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:06.612
+Unexpected IOException: 5,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkStatusCode(com.employeeapi.tests.TC003_Post_Employee_Record),com.employeeapi.tests.TC003_Post_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:06.620
+Unexpected IOException with stream: Status Code : 200
+
+
+# Created at 2019-08-03T19:30:06.628
+Unexpected IOException: 6,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkStatusCode(com.employeeapi.tests.TC003_Post_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:06.634
+Unexpected IOException: 5,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkStatusLine(com.employeeapi.tests.TC003_Post_Employee_Record),com.employeeapi.tests.TC003_Post_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:06.642
+Unexpected IOException with stream: Status Line : HTTP/1.1 200 OK
+
+
+# Created at 2019-08-03T19:30:06.645
+Unexpected IOException: 6,1,com.employeeapi.tests.TC003_Post_Employee_Record,checkStatusLine(com.employeeapi.tests.TC003_Post_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:12.385
+Unexpected IOException: 5,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkHeader(com.employeeapi.tests.TC004_Put_Employee_Record),com.employeeapi.tests.TC004_Put_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:12.394
+Unexpected IOException with stream: Date Sat, 03 Aug 2019 09:30:07 GMT
+
+
+# Created at 2019-08-03T19:30:12.406
+Unexpected IOException with stream: Server Apache
+
+
+# Created at 2019-08-03T19:30:12.416
+Unexpected IOException with stream: Expires Thu, 19 Nov 1981 08:52:00 GMT
+
+
+# Created at 2019-08-03T19:30:12.425
+Unexpected IOException with stream: Cache-Control no-store, no-cache, must-revalidate
+
+
+# Created at 2019-08-03T19:30:12.434
+Unexpected IOException with stream: Pragma no-cache
+
+
+# Created at 2019-08-03T19:30:12.438
+Unexpected IOException with stream: Access-Control-Allow-Origin *
+
+
+# Created at 2019-08-03T19:30:12.442
+Unexpected IOException with stream: Access-Control-Expose-Headers Content-Type, X-Requested-With, X-authentication, X-client
+
+
+# Created at 2019-08-03T19:30:12.449
+Unexpected IOException with stream: Set-Cookie PHPSESSID=c2300216be4187d313b303b6af434db1; path=/
+
+
+# Created at 2019-08-03T19:30:12.456
+Unexpected IOException with stream: Upgrade h2,h2c
+
+
+# Created at 2019-08-03T19:30:12.463
+Unexpected IOException with stream: Connection Upgrade, Keep-Alive
+
+
+# Created at 2019-08-03T19:30:12.471
+Unexpected IOException with stream: Referrer-Policy 
+
+
+# Created at 2019-08-03T19:30:12.475
+Unexpected IOException with stream: Content-Length 49
+
+
+# Created at 2019-08-03T19:30:12.479
+Unexpected IOException with stream: Keep-Alive timeout=5, max=75
+
+
+# Created at 2019-08-03T19:30:12.482
+Unexpected IOException with stream: Content-Type text/html; charset=UTF-8
+
+
+# Created at 2019-08-03T19:30:12.487
+Unexpected IOException with stream: Content Type : text/html; charset=UTF-8
+
+
+# Created at 2019-08-03T19:30:12.490
+Unexpected IOException with stream: Content-Encoding : null
+
+
+# Created at 2019-08-03T19:30:12.495
+Unexpected IOException: 6,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkHeader(com.employeeapi.tests.TC004_Put_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:12.499
+Unexpected IOException: 5,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkResponseBody(com.employeeapi.tests.TC004_Put_Employee_Record),com.employeeapi.tests.TC004_Put_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:12.504
+Unexpected IOException with stream: Response Body is : {"name":"ManujaRajD","salary":"Lghbc","age":"79"}
+
+
+# Created at 2019-08-03T19:30:12.510
+Unexpected IOException: 6,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkResponseBody(com.employeeapi.tests.TC004_Put_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:12.516
+Unexpected IOException: 5,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkStatusCode(com.employeeapi.tests.TC004_Put_Employee_Record),com.employeeapi.tests.TC004_Put_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:12.524
+Unexpected IOException with stream: Status Code : 200
+
+
+# Created at 2019-08-03T19:30:12.529
+Unexpected IOException: 6,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkStatusCode(com.employeeapi.tests.TC004_Put_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:12.538
+Unexpected IOException: 5,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkStatusLine(com.employeeapi.tests.TC004_Put_Employee_Record),com.employeeapi.tests.TC004_Put_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:12.544
+Unexpected IOException with stream: Status Line : HTTP/1.1 200 OK
+
+
+# Created at 2019-08-03T19:30:12.547
+Unexpected IOException: 6,1,com.employeeapi.tests.TC004_Put_Employee_Record,checkStatusLine(com.employeeapi.tests.TC004_Put_Employee_Record),null,null,null
+
+
+# Created at 2019-08-03T19:30:18.614
+Unexpected IOException: 5,1,com.employeeapi.tests.TC005_Delete_Employee_Record,checkResponseBody(com.employeeapi.tests.TC005_Delete_Employee_Record),com.employeeapi.tests.TC005_Delete_Employee_Record,null,null
+
+
+# Created at 2019-08-03T19:30:18.632
+Unexpected IOException with stream: Response Body is : {"success":{"text":"successfully! deleted Records"}}
+
+
+# Created at 2019-08-03T19:30:18.657
+Unexpected IOException: 8,1,com.employeeapi.tests.TC005_Delete_Employee_Record,checkResponseBody(com.employeeapi.tests.TC005_Delete_Employee_Record),null,expected [true] but found [false],null,expected [true] but found [false],TC005_Delete_Employee_Record.checkResponseBody:35 expected [true] but found [false],java.lang.AssertionError: expected [true] but found [false]\000A\0009at com.employeeapi.tests.TC005_Delete_Employee_Record.checkResponseBody(TC005_Delete_Employee_Record.java:35)\000A
+
+
+# Created at 2019-08-03T19:30:18.977
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
